@@ -3,8 +3,8 @@ Peer-to-Peer Distributed Index Network for RFC file sharing
 #################################### Readme P2P-DI/1.0 ####################################
 
 Authors:
-Mukul Manikandan (mmanika@ncsu.edu)
 Akhil Gupta Nidumukkula (anidumu@ncsu.edu)
+Mukul Manikandan (mmanika@ncsu.edu)
 
 The P2P-DI Script runs on python 2.7. Please ensure you have python 2.7 installed on your system an not python 3.x.
 
